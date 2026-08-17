@@ -1,4 +1,4 @@
-# Brain encoding for cc2017: three stimulus → fMRI streams
+# Brain ranking for cc2017: video features → fMRI streams
 
 Code to reproduce the encoding models: three encoders that map features of a video clip to the
 fMRI response of a visual ROI, plus the voxel selection they rely on.
