@@ -13,9 +13,9 @@ dataset; no script reads anything outside this repository and the dataset direct
 
 The three ROIs are groups of Glasser areas, bilateral:
 
-- **early** V1, V2, V3, V4
-- **ventral** FFC, PIT, V8, VMV1–3, VVC, PHA1–3, TE2p
-- **dorsal** V3A, V3B, V6, V6A, V7, IPS1, LO1–3, FST, MT, MST, V3CD, V4t, PH, IP0
+- **early** 
+- **ventral** 
+- **dorsal** 
 
 Dataset: 3 subjects, 4320 training stimuli (2 repeats each) and 1200 held-out test stimuli
 (10 repeats each), clips of 6 frames at 3 fps.
