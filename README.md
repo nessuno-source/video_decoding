@@ -61,8 +61,8 @@ encoder(candidate features)
 
 | file | role |
 |---|---|
-| `paths.py` | every filesystem path, and nothing else |
-| `brainenc/rois.py` | Scheme A grouping, voxel → stream masks |
+| `paths.py` | every filesystem path |
+| `brainenc/rois.py` | voxel → stream masks |
 | `brainenc/backbones.py` | the three frozen visual backbones, shared by steps 01 and 04 |
 | `brainenc/pooling.py` | the two learned pooling modules |
 | `brainenc/ridge.py` | ridge regression |
